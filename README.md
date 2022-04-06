@@ -4,7 +4,7 @@ Curso de Nanodegree da Udacity em Fundamentos de Data Science, da época em que 
 Este curso foi feito todo em Português do Brasil. Nível: Básico
 
 #### Descrição:
-This project collects data from Stack Overflow Survey - years 2011 and 2020. The main idea is to compare how users from some kind of group refers frow what programming language. How preferences are changing by time. And what to expect from next generation about using programming languages.
+Notas de aula do curso de Data Science 1 da Udacity.
 
 #### Insights e passos:
 
